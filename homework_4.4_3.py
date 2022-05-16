@@ -32,4 +32,4 @@ class FlatIterator:
         return self
 
 for item in FlatIterator(nested_list):
-	    print(item)
+	print(item)
