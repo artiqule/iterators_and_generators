@@ -24,4 +24,4 @@ def flat_generator(d_list):
 
 
 for item in flat_generator(nested_list):
-    print(item)
+        print(item)
